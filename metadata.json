@@ -1,0 +1,7 @@
+{
+  "name": "Q-Moji Generator",
+  "description": "Create your own exclusive set of 24 Q-version emojis from a single photo. AI-powered, instantly generated.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
